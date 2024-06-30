@@ -1,0 +1,6 @@
+display_name: Hetzner Cloud
+description: Hetzner Cloud template for Coder to set up a development environment with or without vscode.
+icon: https://cdn.hetzner.com/assets/Uploads/Hetzner-Logo-slogan_space-trans.png
+maintainer_github: Rhiz3K
+verified: false
+tags: [hetzner, cloud, vscode, development]
